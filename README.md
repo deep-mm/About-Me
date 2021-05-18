@@ -1,5 +1,7 @@
 # About-Me
 
-[deepmehta.co.in](https://deepmehta.co.in)
+[Deep Mehta](https://deepmehta.co.in)
+
+![Profile Page](site/static/images/frontpage.png)
 
 This is a profile website hosted on Azure Static Web Pages
