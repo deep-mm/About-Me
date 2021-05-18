@@ -18,7 +18,7 @@ keywords = "blog,developer,personal,coder,computer,azure,cloud"
 info = "DevOps Engineer and Cloud Architect"
 avatarURL = "images/profile.jpg"
 #gravatar = "images/profile.jpg"
-footerContent = "<script type="text/javascript" src="https://theysaidso.com/gadgets/v3/theysaidso.js"></script><div class="tso_simple_borders"><script>TheySaidSo.render({ qod_category : 'inspire'});</script></div>"
+footerContent = "Keep Learning"
 dateFormat = "January 2, 2006"
 hideFooter = false
 hideCredits = true
