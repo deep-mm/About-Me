@@ -16,8 +16,8 @@ author = "Deep Mehta"
 description = "Deep Mehta's Profile"
 keywords = "blog,developer,personal,coder,computer,azure,cloud"
 info = "DevOps Engineer and Cloud Architect"
-avatarURL = "images/Deep_Mehta_Edited.jpg"
-gravatar = "deep.mm97@gmail.com"
+avatarURL = "images/profile.jpg"
+#gravatar = "images/profile.jpg"
 footerContent = "Keep Learning"
 dateFormat = "January 2, 2006"
 hideFooter = false
@@ -103,39 +103,25 @@ author = "authors"
 name = "Github"
 icon = "fa fa-github"
 weight = 1
-url = "https://github.com/johndoe/"
-
-[[params.social]]
-name = "Gitlab"
-icon = "fa fa-gitlab"
-weight = 2
-url = "https://gitlab.com/johndoe/"
-
-[[params.social]]
-name = "Twitter"
-icon = "fa fa-twitter"
-weight = 3
-url = "https://twitter.com/johndoe/"
+url = "https://github.com/deep-mm"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-linkedin"
-weight = 4
-url = "https://www.linkedin.com/in/johndoe/"
+weight = 2
+url = "https://www.linkedin.com/in/deepmehta97/"
 
 [[params.social]]
 name = "Medium"
 icon = "fa fa-medium"
-weight = 5
-url = "https://medium.com/@johndoe"
+weight = 3
+url = "https://medium.com/@deepmm"
 
 [[params.social]]
-name = "RSS"
-icon = "fa fa-rss"
-weight = 6
-url = "https://myhugosite.com/index.xml"
-rel = "alternate"
-type = "application/rss+xml"
+name = "Twitter"
+icon = "fa fa-twitter"
+weight = 4
+url = "https://twitter.com/deepmehta97"
 
 [languages.en]
 languageName = ":uk:"
