@@ -13,11 +13,11 @@ tags = [
 ]
 +++
 
+`Consultant at Microsoft Consulting Service, India`
+
 As an engineer I love facing new challenges, learning new disruptive technologies, and overcoming unexpected barriers. I am a detail-oriented and organized professional with creative mindset and strong technical abilities. I believe in equality and always try to create an inclusive environment for everyone.
 
-Steve Jobs once said, programming teaches you how to think, and when I look back at the last 7 years of my life, from the time I wrote my first line of code, I believe in this more than ever. Programming has changed the way I analyze problems in the real world and develop algorithms to find efficient solutions for the same. The ever-changing IT industry is unpredictable, and this is what makes it interesting to be a part of this dynamic industry. Over the last century, computers have evolved in unimaginable ways. Today, there’s a computer in everyone’s hand, and my aim is to put my CS skills to use for the betterment of society and make lives easier for people.
-
-I have been in the IT industry for the past 4 years now, and have varied experiences ranging from application development to cloud architecture and DevOps engineering.
-I am currently working at Microsoft, as a Consultant helping customers on their digital transformation journey. I have been instrumental in developing DevOps IPs along the way for Azure DevOps as well as GitHub.
+I have been in the IT industry for the past 4 years now, and have varied experiences ranging from **Application development** to **Cloud architecture** and **DevOps engineering**.
+I am currently working at [Microsoft](https://www.linkedin.com/company/microsoft/mycompany/), as a **Consultant** helping customers on their digital transformation journey. I have been instrumental in developing DevOps IPs along the way for Azure DevOps as well as GitHub.
 
 I am currently situated in Mumbai, India. I like to explore new places and go on hikes. The image above, is from one of the treks that I went on this year. I have a great passion for trekking and believe in being fit. I have completed 3 Himalayan high altitude treks till date, [Kedarkantha](https://indiahikes.com/kedarkantha-trek/), [Sandakphu](https://indiahikes.com/sandakphu-phalut/), and the most recent in February 2021 [Brahmatal](https://indiahikes.com/brahmatal-trek/). I also likes to read in my free time and play sports like volleyball and badminton.
