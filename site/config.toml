@@ -115,6 +115,11 @@ weight = 3
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Contact"
+name = "Resume"
 weight = 4
+url = "https://drive.google.com/file/d/13s-nhrvuJf14d03Edx0BBzo1CKFzMwfw/view?usp=sharing"
+
+[[languages.en.menu.main]]
+name = "Contact"
+weight = 5
 url = "contact/"
