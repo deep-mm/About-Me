@@ -13,7 +13,7 @@ tags = [
 ]
 +++
 
-`Consultant at Microsoft Consulting Service, India`
+*`Consultant at Microsoft`*
 
 As an engineer I love facing new challenges, learning new disruptive technologies, and overcoming unexpected barriers. I am a detail-oriented and organized professional with creative mindset and strong technical abilities. I believe in equality and always try to create an inclusive environment for everyone.
 
