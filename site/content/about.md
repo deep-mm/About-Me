@@ -24,3 +24,6 @@ I am currently situated in Mumbai, India. I like to explore new places and go on
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="deepmehta97" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/deepmehta97?trk=profile-badge">Deep Mehta</a></div>
+
+<div class="github-card" data-github="deep-mm" data-width="400" data-height="" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
