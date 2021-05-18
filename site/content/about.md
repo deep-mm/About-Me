@@ -22,8 +22,4 @@ I am currently working at Microsoft, as a Consultant helping customers on their 
 
 I am currently situated in Mumbai, India. I like to explore new places and go on hikes. The image above, is from one of the treks that I went on this year. I have a great passion for trekking and believe in being fit. I have completed 3 Himalayan high altitude treks till date, Kedarkantha, Sandakphu, and the most recent in February Brahmatal. I also likes to read in my free time and play sports like volleyball and badminton.
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="deepmehta97" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/deepmehta97?trk=profile-badge">Deep Mehta</a></div>
-
-<div class="github-card" data-github="deep-mm" data-width="400" data-height="" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+![Github stats](https://github-readme-stats.vercel.app/api?username=deep-mm&hide=issues,contribs,stars,prs&show_icons=true&count_private=true&theme=dark)
