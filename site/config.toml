@@ -73,22 +73,22 @@ tag = "tags"
 author = "authors"
 
 [[params.social]]
+name = "E-Mail"
+icon = "fa fa-envelope"
+weight = 1
+url = "mailto:mail@deepmehta.co.in"
+
+[[params.social]]
 name = "Github"
 icon = "fa fa-github"
-weight = 1
+weight = 2
 url = "https://github.com/deep-mm"
 
 [[params.social]]
 name = "LinkedIn"
 icon = "fa fa-linkedin"
-weight = 2
-url = "https://www.linkedin.com/in/deepmehta97/"
-
-[[params.social]]
-name = "Medium"
-icon = "fa fa-medium"
 weight = 3
-url = "https://medium.com/@deepmm"
+url = "https://www.linkedin.com/in/deepmehta97/"
 
 [[params.social]]
 name = "Twitter"
@@ -118,8 +118,3 @@ url = "projects/"
 name = "Resume"
 weight = 4
 url = "pdf/Deep_Mehta.pdf"
-
-[[languages.en.menu.main]]
-name = "Contact"
-weight = 5
-url = "contact/"
