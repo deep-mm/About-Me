@@ -117,7 +117,7 @@ url = "projects/"
 [[languages.en.menu.main]]
 name = "Resume"
 weight = 4
-url = "https://drive.google.com/file/d/13s-nhrvuJf14d03Edx0BBzo1CKFzMwfw/view?usp=sharing"
+url = "pdf/Deep_Mehta.pdf"
 
 [[languages.en.menu.main]]
 name = "Contact"
