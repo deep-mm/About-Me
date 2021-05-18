@@ -1,25 +1,24 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "Deep Mehta's Profile"
+date = "2021-05-18"
+aliases = ["about-me", "about-deep", "contact"]
+author = "Deep Mehta"
+tags = [
+    "DevOps",
+    "Cloud",
+    "Azure",
+    "Android"
+]
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+As an engineer I love facing new challenges, learning new disruptive technologies, and overcoming unexpected barriers. I am a detail-oriented and organized professional with creative mindset and strong technical abilities. I believe in equality and always try to create an inclusive environment for everyone.
 
-Hugo makes use of a variety of open source projects including:
+Steve Jobs once said, programming teaches you how to think, and when I look back at the last 7 years of my life, from the time I wrote my first line of code, I believe in this more than ever. Programming has changed the way I analyze problems in the real world and develop algorithms to find efficient solutions for the same. The ever-changing IT industry is unpredictable, and this is what makes it interesting to be a part of this dynamic industry. Over the last century, computers have evolved in unimaginable ways. Today, there’s a computer in everyone’s hand, and my aim is to put my CS skills to use for the betterment of society and make lives easier for people.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+I have been in the IT industry for the past 4 years now, and have varied experiences ranging from application development to cloud architecture and DevOps engineering.
+I am currently working at Microsoft, as a Consultant helping customers on their digital transformation journey. I have been instrumental in developing DevOps IPs along the way for Azure DevOps as well as GitHub.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+I am currently situated in Mumbai, India. I like to explore new places and go on hikes. The image above, is from one of the treks that I went on this year. I have a great passion for trekking and believe in being fit. I have completed 3 Himalayan high altitude treks till date, Kedarkantha, Sandakphu, and the most recent in February Brahmatal. I also likes to read in my free time and play sports like volleyball and badminton.
+ 
+---
