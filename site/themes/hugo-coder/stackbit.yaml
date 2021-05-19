@@ -236,6 +236,60 @@ models:
         name: authors
         items:
           type: string
+  projects:
+    type: page
+    label: Projects
+    folder: projects
+    fields:
+      - type: string
+        name: title
+        label: Title
+      - type: date
+        name: date
+        label: Date
+      - type: string
+        name: slug
+        label: Slug
+      - type: list
+        name: tags
+        label: Tags
+        items:
+          type: string
+      - type: list
+        name: categories
+        label: Categories
+        items:
+          type: string
+      - type: list
+        name: series
+        label: Series
+        items:
+          type: string
+      - type: list
+        name: authors
+        label: Authors
+        items:
+          type: string
+      - type: string
+        name: externalLink
+      - type: string
+        name: description
+      - type: boolean
+        name: math
+      - type: boolean
+        name: katex
+      - type: list
+        name: images
+        items:
+          type: string
+      - type: image
+        name: featuredImage
+        label: FeaturedImage
+        description: Image featured in post display
+      - type: list
+        name: authors
+        items:
+          type: string
   snippets:
     type: page
     label: Snippets
