@@ -4,4 +4,4 @@
 
 ![Profile Page](site/static/images/frontpage.png)
 
-This is a profile website hosted on Azure Static Web Pages
+This is a profile website hosted on Azure Static Web Pages.
