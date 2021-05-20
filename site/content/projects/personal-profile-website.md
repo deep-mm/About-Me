@@ -28,7 +28,7 @@ This project is a personal profile static website created with the help of [Hugo
 **Continuous Integration & Deployment** is setup in GitHub to deploy the website as and when new updates are pushed. When a new PR is raised against the main branch, the changes are first deployed to a staging environment to verify the changes. The GitHub action sends a notification in the PR tab about the staging site URL on which it is deployed.
 Once these changes are verified, the PR can be approved and pushed, and the website is then shifted to production slot.
 
-{{< figure src="/images/personal_profile_website/github_pr_ss.png" link="https://github.com/deep-mm/About-Me/pull/13" alt="Screenshot of GitHub Pull Request" >}}
+{{< figure src="/images/projects/github_pr_ss.png" link="https://github.com/deep-mm/About-Me/pull/13" alt="Screenshot of GitHub Pull Request" >}}
 
 ### Azure Static Web App
 
@@ -42,6 +42,6 @@ Once these changes are verified, the PR can be approved and pushed, and the webs
 
 > Website: [deepmehta.co.in](https://deepmehta.co.in)
 
-> GitHub Repo: [https://github.com/deep-mm/About-Me](https://github.com/deep-mm/About-Me)
+> Repository: [https://github.com/deep-mm/About-Me](https://github.com/deep-mm/About-Me)
 
-> Technologies: Azure Static Web App, Azure Custom Domain, Hugo static site generator, GitHub Actions
+> Technology: Azure Static Web App, Azure Custom Domain, Hugo static site generator, GitHub Actions
