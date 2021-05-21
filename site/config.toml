@@ -91,9 +91,15 @@ weight = 3
 url = "https://www.linkedin.com/in/deepmehta97/"
 
 [[params.social]]
+name = "Stack Overflow"
+icon = "fa fa-stack-overflow"
+weight = 4
+url = "https://stackoverflow.com/story/deepmehta"
+
+[[params.social]]
 name = "Twitter"
 icon = "fa fa-twitter"
-weight = 4
+weight = 5
 url = "https://twitter.com/deepmehta97"
 
 [languages.en]
