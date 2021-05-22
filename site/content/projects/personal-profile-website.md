@@ -40,8 +40,10 @@ Once these changes are verified, the PR can be approved and pushed, and the webs
 
 ---
 
-> Website: [deepmehta.co.in](https://deepmehta.co.in)
+{{< notice info >}}
+**Website:** [deepmehta.co.in](https://deepmehta.co.in)
 
-> Repository: [https://github.com/deep-mm/About-Me](https://github.com/deep-mm/About-Me)
+**Repository:** [https://github.com/deep-mm/About-Me](https://github.com/deep-mm/About-Me)
 
-> Technology: Azure Static Web App, Azure Custom Domain, Hugo static site generator, GitHub Actions
+**Technology:** Azure Static Web App, Azure Custom Domain, Hugo static site generator, GitHub Actions
+{{< /notice >}}
