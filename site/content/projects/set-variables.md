@@ -24,11 +24,7 @@ This action contains a bash script which reads a variable.json file in `.github 
 
 Find more details about how to use it: [GitHub Marketplace](https://github.com/marketplace/actions/set-variable)
 
-### Project Artifacts & Details
-
----
-
-{{< notice info >}}
+{{< notice info "Project Artifacts & Details" >}}
 **Marketplace:** [set-variable](https://github.com/marketplace/actions/set-variable)
 
 **Repository:** [https://github.com/deep-mm/set-variables](https://github.com/deep-mm/set-variables)
