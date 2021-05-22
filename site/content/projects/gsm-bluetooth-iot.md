@@ -27,11 +27,7 @@ An android app is used to communicate with the Raspberry pi via Bluetooth. This 
 
 ![Information Model](/images/projects/raspberry-ia.png)
 
-### Project Artifacts & Details
-
----
-
-{{< notice info >}}
+{{< notice info "Project Artifacts & Details" >}}
 **Repository:** [https://github.com/deep-mm/GSM-Bluetooth-IOT](https://github.com/deep-mm/GSM-Bluetooth-IOT)
 
 **Technology:** Raspberry Pi 3, Bluetooth, AE GSM Module SIM 900A, Blueterm, IOT, Python

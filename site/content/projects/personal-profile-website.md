@@ -36,11 +36,7 @@ Once these changes are verified, the PR can be approved and pushed, and the webs
 
 [Azure static web app](https://azure.microsoft.com/en-in/services/app-service/static/) is a service provided by Azure to host static website. It also allows to add a custom domain, thus I added the domain `deepmehta.co.in` and thus got my site hosted on my domain.
 
-### Project Artifacts & Details
-
----
-
-{{< notice info >}}
+{{< notice info "Project Artifacts & Details" >}}
 **Website:** [deepmehta.co.in](https://deepmehta.co.in)
 
 **Repository:** [https://github.com/deep-mm/About-Me](https://github.com/deep-mm/About-Me)
