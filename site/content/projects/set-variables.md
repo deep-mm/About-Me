@@ -28,8 +28,10 @@ Find more details about how to use it: [GitHub Marketplace](https://github.com/m
 
 ---
 
-> Marketplace: [set-variable](https://github.com/marketplace/actions/set-variable)
+{{< notice info >}}
+**Marketplace:** [set-variable](https://github.com/marketplace/actions/set-variable)
 
-> Repository: [https://github.com/deep-mm/set-variables](https://github.com/deep-mm/set-variables)
+**Repository:** [https://github.com/deep-mm/set-variables](https://github.com/deep-mm/set-variables)
 
-> Technology: GitHub actions, yaml, bash
+T**echnology:** GitHub actions, yaml, bash
+{{< /notice >}}
