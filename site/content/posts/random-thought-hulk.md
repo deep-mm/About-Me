@@ -10,8 +10,6 @@ tags = [
 ]
 +++
 
-## A Random Thought
-
 What Hulk taught us in the Avengers Endgame,
 
 Hulk had over the years considered the other half of him as a negative personality and so always fought with himself over that and most of time ended up frustrated at either being hulk or at being banner and because of this he was never really happy.
