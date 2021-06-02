@@ -1,6 +1,6 @@
 +++
 author = "Deep Mehta"
-title = "Taskgroup/Templates in GitHub Workflow"
+title = "Taskgroup in GitHub Workflow"
 date = "2021-06-02"
 description = "How to develop and use templates in GitHub workflows"
 tags = [
@@ -14,7 +14,7 @@ This article will demonstrate how we can make use of **taskgroups** in GitHub wo
 
 If you are someone coming from Azure DevOps world to GitHub DevOps tools, 2 major things you would be missing are variable groups and templates. I will demonstrate how we can get these two features in GitHub by utilizing actions available in GitHub marketplace.
 
-Throughout this article, I will be using this repository: [https://github.com/deep-mm/TaskgroupGitHubWorkflow](https://github.com/deep-mm/TaskgroupGitHubWorkflow), for the demo, so feel free to fork this repository and get your hands dirty.
+Throughout this article, I will be using this repository: [TaskgroupGitHubWorkflow](https://github.com/deep-mm/TaskgroupGitHubWorkflow), for the demo, so feel free to fork this repository and get your hands dirty.
 
 ### Variables
 

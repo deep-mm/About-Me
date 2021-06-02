@@ -18,7 +18,7 @@ keywords = "blog,developer,personal,coder,computer,azure,cloud"
 info = "Cloud Architect | DevOps Engineer | Software Developer"
 avatarURL = "images/profile.jpg"
 #gravatar = "images/profile.jpg"
-footerContent = "<cite>Life begins at the end of your comfort zone</cite><br><br><b>Read of the month:</b> <cite>Blink-The Power of Thinking Without Thinking (Malcolm Gladwell)</cite>"
+footerContent = "<cite>Life begins at the end of your comfort zone</cite><br><br><b>Read of the month:</b> <cite>Deep Work: Rules for Focused Success in a Distracted World (Cal Newport)</cite>"
 dateFormat = "January 2, 2006"
 hideFooter = false
 hideCredits = true
@@ -121,6 +121,11 @@ weight = 3
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Resume"
+name = "Books"
 weight = 4
+url = "books/"
+
+[[languages.en.menu.main]]
+name = "Resume"
+weight = 5
 url = "resume.pdf"
