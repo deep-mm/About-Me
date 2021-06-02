@@ -47,7 +47,11 @@ This picture accurately depicts the difference between Multi & Mono Repo structu
 
 ![Multi-repo and Monorepo comparison](/images/projects/multirepo-monorepo.png)
 
-> It's essential to bear in mind that going multi-repo comes with trade-offs, as Adam Jacob says in this blog post: "The default behavior of a multi-repo is isolation, and the default behavior of a monorepo is shared responsibility and visibility." Do read this interesting blog: https://medium.com/@adamhjk/monorepo-please-do-3657e08a4b70
+{{< notice info >}}
+
+It's essential to bear in mind that going multi-repo comes with trade-offs, as Adam Jacob says in this blog post: "The default behavior of a multi-repo is isolation, and the default behavior of a monorepo is shared responsibility and visibility." Do read this interesting blog: https://medium.com/@adamhjk/monorepo-please-do-3657e08a4b70
+
+{{< /notice >}}
 
 To conclude,
 
