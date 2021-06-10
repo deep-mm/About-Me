@@ -36,6 +36,12 @@ Once these changes are verified, the PR can be approved and pushed, and the webs
 
 [Azure static web app](https://azure.microsoft.com/en-in/services/app-service/static/) is a service provided by Azure to host static website. It also allows to add a custom domain, thus I added the domain `deepmehta.co.in` and thus got my site hosted on my domain.
 
+### Microsoft Clarity - Analytics
+
+---
+
+[Microsoft Clarity](https://clarity.microsoft.com) is a user behavior analytics tool that helps you understand how users are interacting with your website through features such as session replays and heatmaps. This website has clarity integrated with it to get analytics data and make business decisions on improvising the website based on this data.
+
 {{< notice info "Project Artifacts & Details" >}}
 **Website:** [deepmehta.co.in](https://deepmehta.co.in)
 
