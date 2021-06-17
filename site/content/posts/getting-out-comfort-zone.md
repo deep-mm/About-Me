@@ -49,9 +49,9 @@ Let me narrate an incident that occurred 3 years back when I was in last year of
 Now I start doubting myself on 2 factors, is it my **stuttering** or do I **lack technical knowledge** to clear my interview rounds. Over my 4 years at college, I always knew my stuttering may never be 100% cured, so only other option I had was get 100% strong at technical skills, so thats what I had been doing, getting perfect grades, extracurricular activities and so on. At this point, I already have **2 rejections from the same company**, and I had another interview the next day with **Microsoft**.
 
 I decided to try one thing **differently** this time, before the interview, I came out in the open, instead of hiding it, I said to the interviewer
-{{< notice info Quote>}}
-"I might stutter during the interview but that's nothing to do with the fact that I am afraid or less confident, so if possible try to look past that."
-{{< /notice >}}
+
+*"I might stutter during the interview but that's nothing to do with the fact that I am afraid or less confident, so if possible try to look past that."*
+
 This was enough for me to **increase my confidence**, because I had nothing to hide now. The only thing left for me to do, was to showcase my technical skills.
 
 And what do you know, I got selected!! The **happiest day** of my life, which taught me so many things.
