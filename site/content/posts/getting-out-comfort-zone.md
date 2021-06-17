@@ -10,6 +10,7 @@ tags = [
     "motivation",
     "success"
 ]
+featuredImage = "/images/blogs/deep-blog.jpg"
 +++
 
 Today I am writing this article because after years of **cursing** my stuttering and feeling **frustrated** about it, when I zoomed in through the optimistic lens, I realized I should be **thankful** to it.

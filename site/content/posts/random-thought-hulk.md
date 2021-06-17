@@ -8,6 +8,7 @@ tags = [
     "random",
     "smile"
 ]
+featuredImage = "/images/blogs/hulk.png"
 +++
 
 What Hulk taught us in the Avengers Endgame,
