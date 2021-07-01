@@ -12,3 +12,4 @@ tags = [
 
 1. Blink-The Power of Thinking Without Thinking (Malcolm Gladwell)
 2. Deep Work: Rules for Focused Success in a Distracted World (Cal Newport)
+3. The Tipping Point: How Little Things Can Make a Big Difference (Malcolm Gladwell)
