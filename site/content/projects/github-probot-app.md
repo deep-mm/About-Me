@@ -13,6 +13,7 @@ tags = [
     "functions",
     "node.js"
 ]
+featuredImage = "/images/projects/Probot_Thumbnail.png"
 +++
 
 ## Introduction
@@ -108,6 +109,10 @@ In this section we will see how can we host this Probot App on Azure Functions.
 8. Now, if you open an issue, a request is sent to function app and we can see the issue comment as well as it being assigned.
 
     ![Azure Function App Monitor](/images/projects/probot_function_monitor.png)
+
+### Demonstration Video
+
+Youtube: [GitHub App + Probot + Azure Functions](https://youtu.be/4EzYLqR_vnU)
 
 ---
 
