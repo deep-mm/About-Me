@@ -29,5 +29,5 @@ Find more details about how to use it: [GitHub Marketplace](https://github.com/m
 
 **Repository:** [https://github.com/deep-mm/set-variables](https://github.com/deep-mm/set-variables)
 
-T**echnology:** GitHub actions, yaml, bash
+**Technology:** GitHub actions, yaml, bash
 {{< /notice >}}
