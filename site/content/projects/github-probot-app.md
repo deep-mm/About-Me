@@ -13,6 +13,7 @@ tags = [
     "functions",
     "node.js"
 ]
+featuredImage = "/images/projects/Probot_Thumbnail.png"
 +++
 
 ## Introduction
