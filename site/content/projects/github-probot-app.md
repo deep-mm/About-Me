@@ -112,7 +112,7 @@ In this section we will see how can we host this Probot App on Azure Functions.
 
 ### Demonstration Video
 
-{{< youtube 4EzYLqR_vnU >}}
+Youtube: [GitHub App + Probot + Azure Functions](https://youtu.be/4EzYLqR_vnU)
 
 ---
 
