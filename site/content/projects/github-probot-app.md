@@ -13,8 +13,9 @@ tags = [
     "functions",
     "node.js"
 ]
-featuredImage = "/images/projects/Probot_Thumbnail.png"
 +++
+
+![FeaturedImage](/images/projects/Probot_Thumbnail.png)
 
 ## Introduction
 
