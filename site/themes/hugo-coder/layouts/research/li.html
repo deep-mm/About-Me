@@ -1,0 +1,4 @@
+<li>
+  <span class="date">{{ .Date.Format ( "January, 2006" ) }}</span>
+  <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
+</li>

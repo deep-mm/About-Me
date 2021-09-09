@@ -130,9 +130,9 @@ weight = 3
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Books"
+name = "Research"
 weight = 4
-url = "books/"
+url = "research/"
 
 [[languages.en.menu.main]]
 name = "Resume"
