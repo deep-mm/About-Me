@@ -1,7 +1,7 @@
 +++
 author = "Deep Mehta"
 title = "Taskgroup in GitHub Workflow"
-date = "2021-09-02"
+date = "2021-12-23"
 description = "How to develop and use templates in GitHub workflows"
 tags = [
     "github",
@@ -12,14 +12,7 @@ tags = [
 
 This article will demonstrate how we can make use of **taskgroup/template** in GitHub workflow.
 
-If you are someone coming from Azure DevOps world to GitHub DevOps tools, 2 major things you would be missing are variable groups and templates. I will demonstrate how we can get these two features in GitHub by utilizing actions available in GitHub marketplace.
-
-There are 2 ways to achieve this:
-
-1. GitHub Composite Action
-2. Running same workflow multiple times
-
-We will look at both of these methods in the article below.
+If you are someone coming from Azure DevOps world to GitHub DevOps, you will be curious about templates and variable groups, which act as a basic necessity when creating pipelines for multiple environments. In this article we will see how we can utilize these features in GitHub.
 
 Throughout this article, I will be using this repository: [TaskgroupGitHubWorkflow](https://github.com/deep-mm/TaskgroupGitHubWorkflow), for the demo, so feel free to fork this repository and get your hands dirty.
 
@@ -35,12 +28,12 @@ Thus we have 3 variable groups:
 * variable-qa
 * variable-prd
 
-### 1. GitHub Composite Action
+### GitHub Reusable Workflows + GitHub Composite Action
 
 ---
 
 [GitHub Composite action](https://github.blog/changelog/2021-08-25-github-actions-reduce-duplication-with-action-composition/) allows one to create a template file containing composite actions. This template file in GitHub is known as a composite action. A composite action takes an input of a variable, and then we can utilize these variables to run same set of actions but in different environments.
-For our example, we have created a composite action called [deploy-azure](https://github.com/deep-mm/TaskgroupGitHubWorkflow/blob/main/.github/actions/deploy-azure/action.yml).
+For our example, we have created a composite action called [deploy-azure.yml](https://github.com/deep-mm/TaskgroupGitHubWorkflow/blob/main/.github/actions/deploy-azure/action.yml).
 
 This action takes an input of variable environment, which is then utilized in subsequent steps.
 This action has 3 composite steps:
@@ -49,24 +42,17 @@ This action has 3 composite steps:
 2. Set environment variables - depending on variable input select the variable group
 3. Create resource group - depending on variable input deploy the resource group
 
-Then this composite action is utilized in our main workflow [Template-Action-Composite](https://github.com/deep-mm/TaskgroupGitHubWorkflow/blob/main/.github/workflows/template-new.yml), in all three jobs release_dev, release_qa & release_prd. The only change being in the input provided to the composite action.
+[GitHub Reusable workflows](https://docs.github.com/en/actions/learn-github-actions/reusing-workflows) helps reduce duplication and increase efficiency and accuracy of workflows. This makes workflows easier to maintain and allows you to create new workflows more quickly by building on the work of others, just as you do with actions. For our example, we have created a reusable workflow called [reusable-template.yml](https://github.com/deep-mm/TaskgroupGitHubWorkflow/blob/main/.github/workflows/reusable-template.yml).
+This reusable workflow then calls the composite action with the required input to run multiple steps in that particular environment.
+
+Then this reusable workflow is utilized in our main workflow [Template-Action-Composite](https://github.com/deep-mm/TaskgroupGitHubWorkflow/blob/main/.github/workflows/template-new.yml), in all three jobs release-dev, release-qa & release-prd. The only change being in the input provided to the reusable workflows.
 
 The output here looks something like this:
 ![GitHub Taskgroup Output](/images/blogs/github_taskgroup_output.png)
 
-### 2. Run single workflow multiple times
+The relation between main workflow, reusable workflow, and composite action is as follows:
 
----
-
-Now, lets go directly to our template workflow file. Here there are 2 important things we need to notice, firstly the workflow has a **trigger** workflow_dispatch with an input of environment value (dev,qa,prd), and secondly we make use of this **action** [Workflow Dispatch](https://github.com/marketplace/actions/workflow-dispatch) at the end of workflow.
-
-Now let me explain you with a diagram how this workflow is a template and how this same workflow can be utilized to deploy to dev,qa,prd environments.
-
-![Template Workflow Explanation](/images/blogs/template-workflow-explanation.png)
-
-When you initiate the workflow in Dev environment, at the end of the workflow, we have a stage called as **Release_To_Next_Env**. This stage checks the current environment, and based on it makes decision on next environment to release the workflow. For e.g. if workflow runs success in dev, it will then run the same workflow using the workflow-dispatch action, but this time the only change being, it will send the input variable as qa, so now the workflow will use the variable group `variable-qa`, and thus this workflow will release to QA, and similarly next run to PRD.
-
-![Template Workflow Run](/images/blogs/template-workflow-run.png)
+**Main Workflows** *1------n* **Reusable Workflows** *1------n* **Composite Actions**
 
 ### Protection Rules
 
