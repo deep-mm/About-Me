@@ -24,6 +24,10 @@ This action contains a bash script which reads a variable.json file in `.github 
 
 Find more details about how to use it: [GitHub Marketplace](https://github.com/marketplace/actions/set-variable)
 
+This action is actively being used across projects today, some examples of these are:
+
+1. [Azure - Resource Modules](https://github.com/Azure/ResourceModules/blob/main/.github/workflows/ms.analysisservices.servers.yml#L100)
+
 {{< notice info "Project Artifacts & Details" >}}
 **Marketplace:** [set-variable](https://github.com/marketplace/actions/set-variable)
 
