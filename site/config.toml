@@ -111,6 +111,12 @@ icon = "fa fa-youtube-play"
 weight = 6
 url = "https://www.youtube.com/channel/UCzqSk-48vD0TY7ZlA4Vm4GA/featured"
 
+[[params.social]]
+name = "Bot"
+icon = "fa fa-comments"
+weight = 7
+url = "https://yoururl.tech/bot"
+
 [languages.en]
 languageName = ":uk:"
 
