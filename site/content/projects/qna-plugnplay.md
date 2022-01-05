@@ -107,10 +107,11 @@ Following steps needs to be performed in order to deploy this:
     c. QNANAME - This must be a unique name across azure, to verify you can enter it here: [Name verification](https://portal.azure.com/#create/Microsoft.CognitiveServicesTextAnalyticsWithConfigurations) and verify that it is being accepted.
 
 5. Update the file under `.github > variables > qna.json`. Here update the subscriptionId value to your azure subscription id, and the qnaName value to the qnaName you finalized in **step 4c**.
-6. Now run the workflow QnA-Infra-Deploy manually which will deploy the resources onto Azure.
-7. Next, go to the folder `FAQs`, and here you can update the markdown files to any question answers you wish to see your bot reply.
-8. Now the workflow QnA-KB-Deploy will be triggered and your updated QnA will be deployed to knowledge base.
-9. You can go to the [Language Portal](https://language.cognitive.azure.com/) to verify the same.
+6. Before you deploy the infrastructure, we need to agree to responsible AI terms on Azure. For doing this, we will just create a sample resource and then delete it. [Create a Language Service](https://ms.portal.azure.com/#create/Microsoft.CognitiveServicesTextAnalyticsWithConfigurations) with any name and then delete it.
+7. Now run the workflow QnA-Infra-Deploy manually which will deploy the resources onto Azure.
+8. Next, go to the folder `FAQs`, and here you can update the markdown files to any question answers you wish to see your bot reply.
+9. Now the workflow QnA-KB-Deploy will be triggered and your updated QnA will be deployed to knowledge base.
+10. You can go to the [Language Portal](https://language.cognitive.azure.com/) to verify the same.
 
 That's it! We have out service up and running.
 To test it out, you can create a new issue in the same repository, and add a comment `@Bot {your question}` and in about 15 seconds you should see the reply coming in!
@@ -130,7 +131,7 @@ Simply go to the web app bot resource, and select Test in Web Chat. Now you will
 Thus we saw how easy it is to deploy your customized QnA bot for free. Now that you have the base ready, you can use this to customize as per your requirements.
 
 {{< notice info "Project Artifacts & Details" >}}
-**Youtube Video:** [Deploy a Personal QnA Bot for free in less than 10 minutes](https://yoururl.tech/qnayt)
+**Youtube Video:** [Deploy a Personal QnA Bot for free in 15 minutes](https://yoururl.tech/qnayt)
 
 **Azure Bot Service:** [Azure Bot](https://yoururl.tech/bot)
 
