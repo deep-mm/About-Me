@@ -109,7 +109,7 @@ url = "https://twitter.com/deepmehta97"
 name = "Youtube"
 icon = "fa fa-youtube-play"
 weight = 6
-url = "https://www.youtube.com/channel/UCzqSk-48vD0TY7ZlA4Vm4GA/featured"
+url = "https://www.youtube.com/playlist?list=PLFnJ_bvfiInECbum_QTNRj3xPV3BWaavm"
 
 [[params.social]]
 name = "Bot"
