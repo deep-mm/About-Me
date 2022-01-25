@@ -19,3 +19,4 @@ tags = [
 7. [And Then There Were None (Agatha Christie)](https://www.amazon.in/Then-There-Were-None/dp/0008123209)
 8. [Hit Refresh : A Memoir by Microsoft’s CEO (Satya Nadella)](https://www.amazon.in/Hit-Refresh-Memoir-Microsofts-CEO/dp/0008393303)
 9. [Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not! (Robert T. Kiyosaki)](https://www.amazon.in/Rich-Dad-Poor-Middle-Updates/dp/1612680194)
+10. [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://www.amazon.in/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X)
