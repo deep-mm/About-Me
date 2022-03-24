@@ -97,7 +97,7 @@ url = "https://www.linkedin.com/in/deepmehta97/"
 name = "Stack Overflow"
 icon = "fa fa-stack-overflow"
 weight = 4
-url = "https://stackoverflow.com/story/deepmehta"
+url = "https://deepmehta.co.in/story"
 
 [[params.social]]
 name = "Twitter"
