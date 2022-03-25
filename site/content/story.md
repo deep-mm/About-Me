@@ -77,7 +77,7 @@ In this episode Margarita and Deep will introduce the role Aspires play within t
 
 {{< /notice >}}
 
-{{< notice tip "Blog or Videos">}}
+{{< notice tip "Project">}}
 ## [QnA - PlugnPlay](https://deepmehta.co.in/projects/qna-plugnplay/)
 `[Jan 2022]`
 
@@ -87,13 +87,43 @@ This is a reusable IP that can be used to publish your customized QnA bot for fr
 
 {{< /notice >}}
 
+{{< notice tip "Project">}}
+## [URL-Shortner](https://deepmehta.co.in/projects/url-shortner/)
+`[Dec 2021]`
+
+`azure` `function` `storage`
+
+This is a simple URL shortener created using Azure Function App + Storage Account.
+
+{{< /notice >}}
+
 {{< notice tip "Blog or Videos">}}
+## [Taskgroup - GitHub Workflow](https://deepmehta.co.in/posts/github-template/)
+`[Dec 2021]`
+
+`github` `devops` `action`
+
+This is an example to show how can one use taskgroups/template in GitHub workflows similar to how it is possible in Azure DevOps.
+
+{{< /notice >}}
+
+{{< notice tip "Project">}}
 ## [Finance Tracker](https://deepmehta.co.in/projects/finance-tracker/)
 `[Dec 2021]`
 
 `azure` `angular` `asp.net`
 
 Sample Application to show Angular Web App + ASP.NET Core Web API
+
+{{< /notice >}}
+
+{{< notice tip "Project">}}
+## [Password Manager](https://deepmehta.co.in/projects/password-manager/)
+`[Aug 2021]`
+
+`azure` `github` `blazor`
+
+The Password Manager is used to store secrets securely. The cloud architecture for this application is hosted on Azure.
 
 {{< /notice >}}
 
@@ -166,7 +196,7 @@ Paper Id: IJRASET34506
 This Award was granted to me for demonstrating focus on quality of deliverables and technical excellence thus enabling customer success for FY21.
 {{< /notice >}}
 
-{{< notice tip "Blog or Videos">}}
+{{< notice tip "Project">}}
 ## [GitHub Action Marketplace - Set Variable](https://github.com/marketplace/actions/set-variable)
 `[Nov 2020]`
 
@@ -230,6 +260,16 @@ This action will act as a substitution of Library variable groups in GitHub. Thi
 
 {{< /notice >}}
 
+{{< notice tip "Project">}}
+## [Library Management System](https://github.com/deep-mm/LibraryManagementSystem)
+`[Aug 2019]`
+
+`azure` `c#`
+
+This is a library management system project which demonstrates how various Azure Cloud Services can be integrated into a .NET Core application.
+
+{{< /notice >}}
+
 {{< notice example "Certification" >}}
 ## [Accessibility in Action](https://www.credly.com/badges/35a56931-0d47-4e9c-9fca-f32b1974fdde)
 `[May 2020]`
@@ -258,7 +298,7 @@ This was awarded to me, for displaying dedication and innovation in my work with
 
 {{< /notice >}}
 
-{{< notice tip "Blog or Videos">}}
+{{< notice tip "Project">}}
 ## [FamFood](https://play.google.com/store/apps/details?id=com.canteenautomation.famfood)
 `[May 2019]`
 
@@ -272,7 +312,7 @@ This app will serve the needs of college students by allowing them to place orde
 ## Computer Science, K. J. Somaiya College of Engineering, University of Mumbai
 `[July 2015 - May 2019]`
 
-Bachelor's of Technology in Computer Science 
+Bachelor's of Technology in Computer Science.
 
 **CGPA: 9.12/10**
 
@@ -297,6 +337,16 @@ During my internship with the Indian Central Railways, I helped to design and de
 
 {{< /notice >}}
 
+{{< notice tip "Project">}}
+## [GSM-Bluetooth-IOT](https://github.com/deep-mm/GSM-Bluetooth-IOT)
+`[Oct 2018]`
+
+`python` `iot` `raspberry` `gsm`
+
+This project demonstrates the use of a GSM Module attached to Raspberry Pie and controlled using bluetooth.
+
+{{< /notice >}}
+
 {{< notice example "Certification" >}}
 ## [MTA: Security Fundamentals - Certified 2018](https://www.credly.com/badges/261a0aa3-d380-4c18-873b-29f1c7ab7bd5)
 `[July 2018]`
@@ -313,7 +363,7 @@ Worked on the development of two android apps in the healthcare industry during 
 
 {{< /notice >}}
 
-{{< notice tip "Blog or Videos">}}
+{{< notice tip "Project">}}
 ## [Oncue - The Reminder App](https://play.google.com/store/apps/details?id=com.codeadventure.oncue)
 `[Sept 2017]`
 
