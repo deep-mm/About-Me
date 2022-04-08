@@ -23,6 +23,12 @@ Helping customers on their digital transformation journey. I have been instrumen
 {{< /notice >}}
 
 {{< notice example "Certification" >}}
+## Crucial Conversations for Mastering Dialogue
+`[April 2022]`
+
+{{< /notice >}}
+
+{{< notice example "Certification" >}}
 ## [CKAD: Certified Kubernetes Application Developer](https://www.credly.com/badges/e9faddd4-c87e-415b-8e3a-a0d18d3935da)
 `[March 2022]`
 

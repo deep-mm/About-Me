@@ -21,3 +21,4 @@ tags = [
 9. [Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not! (Robert T. Kiyosaki)](https://www.amazon.in/Rich-Dad-Poor-Middle-Updates/dp/1612680194)
 10. [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://www.amazon.in/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X)
 11. [To Kill A Mockingbird](https://www.amazon.in/Kill-Mockingbird-Harper-Lee/dp/0099549484)
+12. [The Code: Silicon Valley and the Remaking of America](https://www.amazon.in/Code-Silicon-Valley-Remaking-America/dp/0399562184)
