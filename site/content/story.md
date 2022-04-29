@@ -23,6 +23,30 @@ Helping customers on their digital transformation journey. I have been instrumen
 {{< /notice >}}
 
 {{< notice example "Certification" >}}
+## [DevOps Dojo Experiential Learning - White Belt Coach](https://www.credly.com/badges/403c45a4-39bf-48b6-b478-0b1eae617619)
+`[April 2022]`
+
+`DevOps`
+
+{{< /notice >}}
+
+{{< notice example "Certification" >}}
+## [DevOps Dojo Experiential Learning - Orange Belt Coach](https://www.credly.com/badges/cb920746-47f4-4fd3-9f3e-0337208cbe3e)
+`[April 2022]`
+
+`DevOps`
+
+{{< /notice >}}
+
+{{< notice example "Certification" >}}
+## [DevOps Dojo Experiential Learning - Green Belt Coach](https://www.credly.com/badges/c9a246c3-f1f8-464a-bd63-470a543ad2e3)
+`[April 2022]`
+
+`DevOps`
+
+{{< /notice >}}
+
+{{< notice example "Certification" >}}
 ## Crucial Conversations for Mastering Dialogue
 `[April 2022]`
 
