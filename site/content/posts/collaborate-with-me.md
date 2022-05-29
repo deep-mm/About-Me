@@ -1,12 +1,13 @@
 +++
 author = "Deep Mehta"
-title = "Collaborating with Individuals with Speech Disorders"
+title = "Collaborating with me"
 date = "2019-01-01"
 description = "Blog that lists down the ideal ways to collaborate with individuals with Speech Disorders"
 tags = [
     "collaborate",
     "stuttering"
 ]
+featuredImage = "/images/blogs/i-stutter.jpeg"
 +++
 
 ## About
