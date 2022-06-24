@@ -15,11 +15,26 @@ tags = [
 
 {{< notice info "Work Experience" >}}
 ## Consultant at Microsoft
-`[February 2022 - Current (2 Months)]`
+`[February 2022 - Current (5 Months)]`
 
 `asp.net` `angular` `c#` `devops` `azure` `kubernetes`
 
-Helping customers on their digital transformation journey. I have been instrumental in developing DevOps IPs along the way for Azure DevOps as well as GitHub.
+I am currently working at Microsoft, as a Technology Consultant developing and deploying Azure cloud solutions and working with customers to aid them in their digital transformation journey.
+
+I worked on development of Azure Cloud Solutions, including the frontend web applications using Angular and the backend APIs using C#, Azure SQL, Azure App Service.
+I worked on Power App solution with Retail customers.
+
+I was also involved in the DevOps implementation for these solutions, where I automated the build, test and deployment of these applications. I am a core team member of the DevOps Dojo initiative at Microsoft. I have developed the DevOps Dojo White Belt & Green Belt - UI/UX Accessibility with GitHub DevOps, which I presented as part of YouTube Live Sessions.
+{{< /notice >}}
+
+{{< notice tip "Blog or Videos">}}
+## [DevOps Dojo – UX/Accessibility](https://devblogs.microsoft.com/devops/devops-dojo-ux-accessibility/)
+`[June 2022]`
+
+`accessibility`
+
+Accessibility in the technology field, why it is important, and how we included it in DevOps culture.
+
 {{< /notice >}}
 
 {{< notice example "Certification" >}}
@@ -78,7 +93,11 @@ Helping customers on their digital transformation journey. I have been instrumen
 
 `asp.net` `angular` `c#` `devops` `azure` `kubernetes`
 
-Helping customers on their digital transformation journey. I have been instrumental in developing DevOps IPs along the way for Azure DevOps as well as GitHub.
+I worked on development of Azure Cloud Solutions, including the frontend web applications using Angular and the backend APIs using C#, Azure SQL, Azure App Service.
+I worked on cloud governance using Azure Policy for a banking customer.
+I worked on an IoT based solution using Azure components like FHIR and IoT hub for a healthcare customer.
+
+I was also involved in the DevOps implementation for these solutions, where I automated the build, test and deployment of these applications. I was a core team member of the DevOps Dojo initiative at Microsoft. I led the development of the IP - DevOps Dojo GreenBelt for Accessibility - UI/UX, which was a union of the two worlds of DevOps and Accessibility. I earned the DevOps Dojo Coach accreditation and also got certified as GitHub YouTube Live Speaker.
 {{< /notice >}}
 
 {{< notice example "Certification" >}}
@@ -310,9 +329,9 @@ This is a library management system project which demonstrates how various Azure
 ## Associate Consultant I at Microsoft
 `[July 2019 - April 2020 (10 Months)]`
 
-`asp.net` `angular` `c#` `devops` `azure` `kubernetes`
+`asp.net` `c#` `devops` `azure` `kubernetes`
 
-Helping customers on their digital transformation journey. I have been instrumental in developing DevOps IPs along the way for Azure DevOps as well as GitHub.
+I worked on development of Azure Cloud Solutions, mainly the backend APIs using C#, Azure SQL, Azure App Service. I was also involved in the DevOps implementation for these solutions, where I automated the build, test and deployment of these applications.
 {{< /notice >}}
 
 {{< notice note "Award">}}
