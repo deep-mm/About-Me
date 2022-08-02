@@ -12,14 +12,21 @@ tags = [
     "Profile"
 ]
 +++
+{{< notice info "Education" >}}
+## Computer Science, North Carolina State University
+`[August 2022 - Current]`
+
+Master's in Computer Science.
+
+{{< /notice >}}
 
 {{< notice info "Work Experience" >}}
 ## Consultant at Microsoft
-`[February 2022 - Current (5 Months)]`
+`[February 2022 - July 2022]`
 
 `asp.net` `angular` `c#` `devops` `azure` `kubernetes`
 
-I am currently working at Microsoft, as a Technology Consultant developing and deploying Azure cloud solutions and working with customers to aid them in their digital transformation journey.
+At Microsoft, as a Technology Consultant, I was involved in the development and deployment of Azure cloud solutions and working with customers to aid them in their digital transformation journey.
 
 I worked on development of Azure Cloud Solutions, including the frontend web applications using Angular and the backend APIs using C#, Azure SQL, Azure App Service.
 I worked on Power App solution with Retail customers.
