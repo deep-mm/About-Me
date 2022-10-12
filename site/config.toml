@@ -94,12 +94,6 @@ weight = 3
 url = "https://www.linkedin.com/in/deepmehta97/"
 
 [[params.social]]
-name = "Stack Overflow"
-icon = "fa fa-stack-overflow"
-weight = 4
-url = "https://deepmehta.co.in/story"
-
-[[params.social]]
 name = "Twitter"
 icon = "fa fa-twitter"
 weight = 5
@@ -110,12 +104,6 @@ name = "Youtube"
 icon = "fa fa-youtube-play"
 weight = 6
 url = "https://www.youtube.com/playlist?list=PLFnJ_bvfiInECbum_QTNRj3xPV3BWaavm"
-
-[[params.social]]
-name = "Bot"
-icon = "fa fa-comments"
-weight = 7
-url = "https://yoururl.tech/bot"
 
 [languages.en]
 languageName = ":uk:"
