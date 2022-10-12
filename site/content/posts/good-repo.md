@@ -28,7 +28,7 @@ Let's get started!
 
 ## README
 
-This is the most important section of your repository. This is the first thing any contributor checks out and you have less than 5 seconds to convince them that they are welcome to contribute and it's super easy to do so.
+This is the most important section of your repository. This is the first thing any contributor checks out and you have less than a minute to convince them that they are welcome to contribute and it's super easy to do so.
 
 Each folder of the repository must define a README that provides an overview of the files that exist within that particular folder, mainly 2 parts, **What** are they and **Why** they are present in that particular folder.
 
@@ -59,7 +59,7 @@ The admins of the repository are responsible for banning contributors that don't
 
 ## Citation
 
-The Citation file lists down the contributors of the repository that one can utilize when adding this repository as a citation in any research paper where it has been referenced. This ensures that the repository has been cited currently and all the contributors are rightfully given credit.
+The Citation file lists down the contributors of the repository that one can utilize when adding this repository as a citation in any research paper where it has been referenced. This ensures that the repository has been cited correctly and all the contributors are rightfully given credit.
 
 ## Issues
 
@@ -102,7 +102,7 @@ This can either be done manually or one can make use of automated document gener
 
 ## Badges
 
-Remember we said at the start that it takes just 5 seconds for someone to decide if your repository is good and worth contributing. Badges help you add that bling to your repository to attract their attention.
+Remember we said at the start that it takes just a minute for someone to decide if your repository is good and worth contributing. Badges help you add that bling to your repository to attract their attention.
 
 You can add badges for anything and everything you wish for, and can explore various badges here: [Shields.io](https://www.shields.io).
 
