@@ -9,7 +9,8 @@ tags = [
     "er-diagram",
     "github",
     "angular",
-    "java"
+    "java",
+    "devops"
 ]
 +++
 
@@ -116,6 +117,14 @@ Finally, the entire system was hosted on the cloud to be consumed over the web.
 2. Backend APIs - Java SpringBoot - Hosted on Azure (https://service-center-api.azurewebsites.net)
 3. Frontend APP - Angular - Hosted on Azure (https://service-center-app.azurewebsites.net/login)
 
+## DevOps
+
+---
+
+Continuos deployment was setup as part of this project, where the SpringBoot App was directly deployed to Azure App Service, and the Angular app was packaged as a Docker container which is then pulled by Azure App Service.
+
+---
+
 {{< notice info "Project Artifacts & Details" >}}
 **Website:** [https://yoururl.tech/svc](https://yoururl.tech/svc)
 
@@ -123,5 +132,5 @@ Finally, the entire system was hosted on the cloud to be consumed over the web.
 
 **Repository** [https://github.com/deep-mm/DBMS-Car-Service-Center](https://github.com/deep-mm/DBMS-Car-Service-Center)
 
-**Technology:** SQL, Java, Angular, Azure, Oracle
+**Technology:** SQL, Java, Angular, Azure, Oracle, GitHub-Actions
 {{< /notice >}}
