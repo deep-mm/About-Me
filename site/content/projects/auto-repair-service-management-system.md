@@ -2,15 +2,15 @@
 author = "Deep Mehta"
 title = "AUTOR - Auto Repair and Service Management System"
 date = "2022-12-10"
-description = "This project is an implementation of an car service center application with a primary focus on database design."
+description = "This project is an implementation of a car service center application with a primary focus on database design."
 tags = [
-    "dbms",
-    "sql",
-    "er-diagram",
-    "github",
-    "angular",
-    "java",
-    "devops"
+ "dbms",
+ "sql",
+ "er-diagram",
+ "github",
+ "angular",
+ "java",
+ "devops"
 ]
 +++
 
@@ -22,13 +22,13 @@ tags = [
 
 The following activities were performed as part of this project:
 
-1. Designing a Entity-Relationship diagram based on the requirements
+1. Designing an Entity-Relationship diagram based on the requirements
 2. Convert ER diagram into SQL Tables
 3. Develop Java Springboot APIs to interact with the database (Oracle)
 4. Setup Triggers, Procedures in SQL to ensure database consistency
 5. Develop Angular Frontend to consume APIs
 
-The requirements included, developing a system that allows customers to schedule maintenance and repair services for their cars. Additionally provide interfaces fro store manager, receptionist and mechanics.
+The requirements included developing a system that allows customers to schedule maintenance and repair services for their cars. Additionally provide interfaces for the store manager, receptionist, and mechanics.
 
 ## ER Diagram
 
@@ -49,16 +49,16 @@ Example: SERVICE_CENTER
 ```sql
 
 CREATE TABLE SERVICE_CENTER (
-    SERVICE_CENTER_ID INTEGER,
-    ADDRESS VARCHAR(250) NOT NULL,
-    TELEPHONE_NO VARCHAR(15) NOT NULL,
-    OPERATIONAL_STATUS INTEGER NOT NULL,
-    WEEKEND_WORKING INTEGER NOT NULL,
-    MIN_WAGE INTEGER NOT NULL,
-    MAX_WAGE INTEGER NOT NULL,
-    PRIMARY KEY (SERVICE_CENTER_ID),
-    CHECK (OPERATIONAL_STATUS IN (0, 1)),
-    CHECK (WEEKEND_WORKING IN (0, 1))
+ SERVICE_CENTER_ID INTEGER,
+ ADDRESS VARCHAR(250) NOT NULL,
+ TELEPHONE_NO VARCHAR(15) NOT NULL,
+ OPERATIONAL_STATUS INTEGER NOT NULL,
+ WEEKEND_WORKING INTEGER NOT NULL,
+ MIN_WAGE INTEGER NOT NULL,
+ MAX_WAGE INTEGER NOT NULL,
+ PRIMARY KEY (SERVICE_CENTER_ID),
+ CHECK (OPERATIONAL_STATUS IN (0, 1)),
+ CHECK (WEEKEND_WORKING IN (0, 1))
 );
 
 ```
@@ -90,12 +90,12 @@ INSERT ON CUSTOMER_CAR FOR EACH ROW BEGIN
 UPDATE CUSTOMER C
 SET C.status = 1
 WHERE C.customer_id = :new.customer_id
-    AND C.service_center_id = :new.service_center_id;
+ AND C.service_center_id = :new.service_center_id;
 END;
 
 ```
 
-This trigger ensures that is a customer car is added to the database, the customer status changes to active.
+This trigger ensures that if a customer car is added to the database, the customer status changes to active.
 
 You can find all the triggers here: [Triggers](https://github.com/deep-mm/DBMS-Car-Service-Center/blob/main/sql-files/set_up.sql#L210)
 
@@ -103,7 +103,7 @@ You can find all the triggers here: [Triggers](https://github.com/deep-mm/DBMS-C
 
 ---
 
-Final step, was to create a UI for the user to interact with the data. Thus, we created an angular app to consume the java springboot APIs.
+The final step was to create a UI for the user to interact with the data. Thus, we created an angular app to consume the java springboot APIs.
 
 The angular project can be found here: [service-center-app](https://github.com/deep-mm/DBMS-Car-Service-Center/tree/main/service-center-app/src)
 
@@ -121,7 +121,7 @@ Finally, the entire system was hosted on the cloud to be consumed over the web.
 
 ---
 
-Continuos deployment was setup as part of this project, where the SpringBoot App was directly deployed to Azure App Service, and the Angular app was packaged as a Docker container which is then pulled by Azure App Service.
+Continuous deployment was set up as part of this project, where the SpringBoot App was directly deployed to Azure App Service, and the Angular app was packaged as a Docker container which is then pulled by Azure App Service.
 
 ---
 
