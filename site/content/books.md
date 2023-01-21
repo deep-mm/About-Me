@@ -22,3 +22,6 @@ tags = [
 10. [Bad Blood: Secrets and Lies in a Silicon Valley Startup](https://www.amazon.in/Bad-Blood-Secrets-Silicon-Startup/dp/152473165X)
 11. [To Kill A Mockingbird](https://www.amazon.in/Kill-Mockingbird-Harper-Lee/dp/0099549484)
 12. [The Code: Silicon Valley and the Remaking of America](https://www.amazon.in/Code-Silicon-Valley-Remaking-America/dp/0399562184)
+13. [Dreaming in Code: Two Dozen Programmers, Three Years, 4,732 Bugs, and One Quest for Transcendent Software](https://www.amazon.com/Dreaming-Code-Programmers-Transcendent-Software/dp/1400082471)
+14. [The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage](https://www.amazon.com/Cuckoos-Egg-Tracking-Computer-Espionage/dp/1416507787)
+
