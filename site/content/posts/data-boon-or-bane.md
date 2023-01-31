@@ -40,10 +40,12 @@ While there might not be one definite way forward, I believe we should never sto
 
 Peace ✌️
 
-**References:**
 ---
 
+**References:**
+
 [1] https://gutcheckit.com/blog/a-history-of-data/
+
 [2] https://www.foreseemed.com/importance-of-data-collection-in-healthcare
 
 ---
