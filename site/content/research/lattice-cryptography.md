@@ -1,7 +1,7 @@
 +++
 author = "Deep Mehta"
 date = "2023-05-01"
-title = "ANALYSIS OF LATTICE-BASED CRYPTOGRAPHY ALGORITHMS"
+title = "Analysis of Lattice-Based Cryptography Algorithms"
 slug = "lattice-cryptography"
 tags = [
     "research",
