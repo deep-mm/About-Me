@@ -1,0 +1,685 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Deep Mehta",
+    "label": "MCS Graduate @NCSU | Ex-Amazon | Ex-Microsoft | Full Stack Software Developer - DevOps - Cloud Solutions |",
+    "image": "",
+    "email": "deep.mm97@gmail.com",
+    "phone": "2512073827",
+    "url": "",
+    "summary": "As an engineer, I love facing new challenges, learning new disruptive technologies, and overcoming unexpected barriers. I am a detail-oriented and organized professional with a creative mindset and strong technical abilities. I believe in equality and always try to create an inclusive environment for everyone.\n\nI have been in the IT industry for the past 4 years now and have varied experiences ranging from Web & Mobile Development to Developing Cloud Solutions and DevOps Engineering. I am currently pursuing a Master’s in Computer Science at NCSU.",
+    "location": {
+      "countryCode": "US",
+      "address": "Avent Ferry Road, Raleigh, NC - 27606"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "deepmehta97",
+        "url": "https://www.linkedin.com/in/deepmehta97/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "North Carolina State University",
+      "position": "Graduate Research Assistant - IEC Lab",
+      "startDate": "2023-08-31",
+      "endDate": "",
+      "highlights": [],
+      "summary": "Working as a Full stack software developer on the Cyberbook project at IEC Lab, based on OpenEdx.\n\n1. Development of python based XBlocks for OpenEdx\n2. Deployment of OpenEdx on a On-Premise Linux Server\n3. Setting up IP Tables and Firewall Rules for Linux Server\n4. Development of Docker images for various existing services",
+      "url": "https://www.linkedin.com/school/north-carolina-state-university/",
+      "location": "Raleigh, North Carolina, United States"
+    },
+    {
+      "name": "Amazon",
+      "position": "SDE",
+      "startDate": "2023-05-31",
+      "endDate": "2023-08-31",
+      "highlights": [],
+      "summary": "•\tFull stack software development – Mobile App (React Native), Backend APIs (Java), Cloud (AWS)\n•\tIntegrated AWS Textract-powered OCR feature into mobile app, reducing manual effort for 50K+ monthly active users by 85% and enhancing operational efficiency.",
+      "url": "https://www.linkedin.com/company/amazon/",
+      "location": "Seattle, Washington, United States"
+    },
+    {
+      "name": "North Carolina State University",
+      "position": "Research Intern - Innovative Educational Computing Lab",
+      "startDate": "2022-12-31",
+      "endDate": "2023-05-31",
+      "highlights": [],
+      "summary": "Working as a Full stack software developer on the Cyberbook project at IEC Lab, based on OpenEdx.\n\n1. Development of python based XBlocks for OpenEdx\n2. Deployment of OpenEdx on a On-Premise Linux Server\n3. Setting up IP Tables and Firewall Rules for Linux Server\n4. Development of Docker images for various existing services",
+      "url": "https://www.linkedin.com/school/north-carolina-state-university/",
+      "location": "Raleigh, North Carolina, United States"
+    },
+    {
+      "name": "North Carolina State University",
+      "position": "Bookstacks Assistant - NCSU Library",
+      "startDate": "2022-08-31",
+      "endDate": "2022-12-31",
+      "highlights": [],
+      "summary": "Handled day-to-day operations at NCSU Hill library including (but not limited to):\n1. Shelving Books\n2. Discharging Books\n3. Managing reserved books for patrons\n4. Scanning Books\n5. Audits",
+      "url": "https://www.linkedin.com/school/north-carolina-state-university/",
+      "location": "Raleigh, North Carolina, United States"
+    },
+    {
+      "name": "Microsoft",
+      "position": "Technology Consultant",
+      "startDate": "2022-03-31",
+      "endDate": "2022-07-31",
+      "highlights": [],
+      "summary": "•\tFull stack software development – Web Apps (Angular, React), Backend APIs (C#, Java), Cloud (Azure)\n•\tIoT – Healthcare customer, utilized Azure FHIR, IoT Hub, Functions, App Service to develop a fully functional IoT based platform for researchers to collect and analyze data from participant Fitbit devices.\n•\tCloud Governance – Banking customer, secured their cloud infrastructure with Azure Policy. Led a team for 18 months and my efforts were recognized in the form of Spark award for a successful delivery.\n•\tDevOps – Automation pipelines with Azure-DevOps and GitHub Actions. Continuous Integration, Deployment, Quality, Security and Operations. Developed IPs, hosted masterclasses to educate and sell to customers.\n•\tDevOps Infrastructure – Infrastructure as code with ARM-Templates and Terraform to deploy resources to cloud. \n•\tDevOps Scripting – Extensive scripting with Ansible, PowerShell and Unix Shell to automate configurations.\n•\tPowerApps – Retail customer, integrated Power BI, and Power Apps to provide a quick delivery of data intake and analysis platform for the client. Created DevOps pipeline to deploy PowerApps to multiple environments.\n•\tCertifications – Azure Solutions Architect, Azure DevOps Engineer, Kubernetes Certified Application Developer\n•\tAwards – Best Consultant 2021, Spark Award 2021, Super Rookie 2020",
+      "url": "https://www.linkedin.com/company/microsoft/",
+      "location": "Hyderabad, Telangana, India"
+    },
+    {
+      "name": "Microsoft",
+      "position": "Associate Consultant II",
+      "startDate": "2020-05-31",
+      "endDate": "2022-02-28",
+      "highlights": [],
+      "summary": "I worked on development of Azure Cloud Solutions, including the frontend web applications using Angular and the backend APIs using C#, Azure SQL, Azure App Service. \nI worked on cloud governance using Azure Policy for a banking customer. \nI worked on an IoT based solution using Azure components like FHIR and IoT hub for a healthcare customer.\nI was also involved in the DevOps implementation for these solutions, where I automated the build, test and deployment of these applications. I was a core team member of the DevOps Dojo initiative at Microsoft. I led the development of the IP - DevOps Dojo GreenBelt for Accessibility - UI/UX, which was a union of the two worlds of DevOps and Accessibility. I earned the DevOps Dojo Coach accreditation and also got certified as GitHub YouTube Live Speaker.",
+      "url": "https://www.linkedin.com/company/microsoft/",
+      "location": "Hyderabad, Telangana, India"
+    },
+    {
+      "name": "Microsoft",
+      "position": "Associate Consultant I",
+      "startDate": "2019-07-31",
+      "endDate": "2020-04-30",
+      "highlights": [],
+      "summary": "I worked on development of Azure Cloud Solutions, mainly the backend APIs using C#, Azure SQL, Azure App Service. I was also involved in the DevOps implementation for these solutions, where I automated the build, test and deployment of these applications.",
+      "url": "https://www.linkedin.com/company/microsoft/",
+      "location": "Hyderabad Area, India"
+    },
+    {
+      "name": "KJ Somaiya College of Engineering, Vidyavihar",
+      "position": "Research Assistant",
+      "startDate": "2019-01-31",
+      "endDate": "2019-03-31",
+      "highlights": [],
+      "summary": "I aided my professor Dr Archana Gupta in research of a data mining algorithm and concluded the research with publishing the paper in IJRASET journal.\nPaper Title: Hybrid System to find Association using Genetic Algorithm and Fuzzy Logic\nPaper Link: https://www.ijraset.com/fileserve.php?FID=20181",
+      "url": "https://www.linkedin.com/school/kj-somaiya-college-of-engineering-vidyavihar/",
+      "location": "Mumbai, Maharashtra, India"
+    },
+    {
+      "name": "Indian Railways",
+      "position": "Android Developer",
+      "startDate": "2018-02-28",
+      "endDate": "2018-10-31",
+      "highlights": [],
+      "summary": "During my internship with the Indian Central Railways, I helped to design an app for the inspection of trains. I was the Dev Lead for the development of the application with a team of more than ten people.",
+      "url": "https://www.linkedin.com/company/indian-railways-new/",
+      "location": "LTT, Mumbai"
+    },
+    {
+      "name": "Eloquent Techart",
+      "position": "Android Developer",
+      "startDate": "2018-01-31",
+      "endDate": "2018-03-31",
+      "highlights": [],
+      "summary": "◦ Healthcare Industry: Developed a healthcare app for clinics using Android (Mobile App), SQL (DB), Java (APIs). Integrated functionality of document scanning using OpenCV which eliminated the need of maintaining hard copies of patient record, and ensured secure storage of data.\n◦ Utlity Industry: Developed a utility app for fishermen using Android, NoSQL, Firebase which was used to automate the calculation of daily wages of fishermen based on profits and expenses incurred by the ship. This eliminated the manual efforts and increased their efficiency.",
+      "url": "",
+      "location": "Mumbai, Maharashtra, India"
+    },
+    {
+      "name": "TalaKunchi Networks Pvt Ltd",
+      "position": "Security Analyst",
+      "startDate": "2016-11-30",
+      "endDate": "2016-12-31",
+      "highlights": [],
+      "summary": "Learnt about the work performed by network security analysts. Gained a fairly good knowledge about networking and security.",
+      "url": "https://www.linkedin.com/company/talakunchi/",
+      "location": "Goregaon, Mumbai"
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "KJ Somaiya College of Engineering, Vidyavihar",
+      "area": "Computer Engineering",
+      "studyType": "Bachelor’s Degree",
+      "startDate": "2015-12-31",
+      "endDate": "2019-12-31",
+      "score": "9.12/10",
+      "courses": []
+    },
+    {
+      "institution": "Khar Education Society Junior College of Science & Commerce",
+      "area": "Science",
+      "studyType": "HSC",
+      "startDate": "2013-12-31",
+      "endDate": "2015-12-31",
+      "score": "79%",
+      "courses": []
+    },
+    {
+      "institution": "North Carolina State University",
+      "area": "Computer Science",
+      "studyType": "Master of Science - MS",
+      "startDate": "2022-08-31",
+      "endDate": "2024-05-31",
+      "score": "4.0",
+      "courses": []
+    },
+    {
+      "institution": "P.G.Garodia High School (I.C.S.E)",
+      "area": "Secondary School Administration/Principalship",
+      "studyType": "ICSE 10th",
+      "startDate": "2000-12-31",
+      "endDate": "2013-12-31",
+      "score": "92.5%",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "JN Tata Scholar",
+      "date": "2022-08-31",
+      "awarder": "JN Tata Endowment",
+      "summary": "This was awarded to me by the JN Tata board of trustees for pursuing my Masters in Computer Science."
+    },
+    {
+      "title": "Spark Award",
+      "date": "2021-07-31",
+      "awarder": "Microsoft",
+      "summary": "Spark Award is awarded to project team members who demonstrate customer obsession. This is awarded to the team that ensures the quality of the product while working effectively together."
+    },
+    {
+      "title": "Best Associate Consultant - Azure Cloud & AI - FY21 H1",
+      "date": "2021-02-28",
+      "awarder": "Microsoft",
+      "summary": "This Award was granted to me for demonstrating focus on quality of deliverables and technical excellence thus enabling customer success for FY21."
+    },
+    {
+      "title": "Super Rookie - FY20 H1",
+      "date": "2020-02-28",
+      "awarder": "Microsoft",
+      "summary": "This was awarded to me, for displaying dedication and innovation in my work within 6 months of joining the organisation."
+    },
+    {
+      "title": "Winner of Codeadventure - App Development Marathon",
+      "date": "2017-09-30",
+      "awarder": "RIIDL, Mumbai",
+      "summary": "Won the app marathon by developing and publishing an android app called OnCue."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Microsoft Technology Associate: Security Fundamentals (MTA)",
+      "issuer": "Microsoft",
+      "startDate": "2018-07-31",
+      "url": "https://www.youracclaim.com/badges/261a0aa3-d380-4c18-873b-29f1c7ab7bd5/linked_in_profile"
+    },
+    {
+      "name": "Oracle Workforce Development Program",
+      "issuer": "ATS Infotech Pvt Ltd",
+      "startDate": "2017-06-30"
+    },
+    {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "issuer": "Microsoft",
+      "startDate": "2019-11-30",
+      "url": "https://www.youracclaim.com/badges/d2916fe6-bce6-4821-b560-5fe3d31e9f09/linked_in_profile"
+    },
+    {
+      "name": "Scrum: The Basics",
+      "issuer": "LinkedIn",
+      "startDate": "2019-12-31",
+      "url": "https://www.linkedin.com/learning/certificates/94215f06d3e652788e9aad8b746f744b034eb9fbaa878f8277086d6ee2c89574?trk=backfilled_certificate"
+    },
+    {
+      "name": "Accessibility in Action",
+      "issuer": "Microsoft",
+      "startDate": "2020-05-31",
+      "url": "https://www.youracclaim.com/badges/35a56931-0d47-4e9c-9fca-f32b1974fdde/linked_in_profile"
+    },
+    {
+      "name": "Story Impact: Learning to Connect and Compel",
+      "issuer": "Microsoft - Lange International",
+      "startDate": "2020-05-31",
+      "url": "https://www.youracclaim.com/badges/8cb3972e-092d-4df2-8767-444e3acddac7/linked_in_profile"
+    },
+    {
+      "name": "Microsoft Certified: Azure Developer Associate",
+      "issuer": "Microsoft",
+      "endDate": "2024-05-31",
+      "startDate": "2020-05-31",
+      "url": "https://www.credly.com/earner/earned/badge/ce2f769f-332e-4025-8481-58429ed1a5bd"
+    },
+    {
+      "name": "Microsoft Certified: Power Platform Fundamentals",
+      "issuer": "Microsoft",
+      "startDate": "2020-06-30",
+      "url": "https://www.youracclaim.com/badges/1c5ba1ae-f54d-432a-b6b5-b3714e06022e?source=linked_in_profile"
+    },
+    {
+      "name": "MCE: Microsoft Certified Educator",
+      "issuer": "Microsoft",
+      "startDate": "2020-07-31",
+      "url": "https://www.youracclaim.com/badges/fa6dc4b0-eb47-4274-823a-b33ed284b6ac?source=linked_in_profile"
+    },
+    {
+      "name": "Microsoft Certified: Azure IoT Developer Specialty",
+      "issuer": "Microsoft",
+      "endDate": "2024-07-31",
+      "startDate": "2020-07-31",
+      "url": "https://www.youracclaim.com/badges/b8fac8d3-4f8d-4fbc-8360-9195fb856a11?source=linked_in_profile"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Stock Price Prediction using Graph Neural Networks",
+      "publisher": null,
+      "releaseDate": "2023-11-30",
+      "summary": "The primary objectives of this research are:\n• Develop a graph-based dataset: Create a structured graph dataset that represents relationships between stocks, financial indices, economic indicators, and other relevant factors. This dataset will be used for long-term stock price predictions and relationship exploration.\n• Apply graph embedding techniques: Utilize graph embedding methods to capture the underlying patterns and dependencies in the dataset. Techniques such as Graph Convolutional Networks (GCNs) will be explored.\n• Predict stock prices: Build predictive models using embedded graph data to forecast stock closing prices for daily data.\n• Explore stock relationships: Analyze the graph data to identify and quantify relationships between different stocks and sectors. Discover patterns and dependencies that can inform investment decisions.\n• Evaluate model performance: Assess the accuracy, precision, recall, and F1-score of the prediction models. Evaluate their effectiveness in identifying attractive long-term investments.",
+      "url": "https://deepmehta.co.in/papers/Stock_Price_GNN.pdf"
+    },
+    {
+      "name": "Analysis of Lattice-Based Cryptography Algorithms",
+      "publisher": null,
+      "releaseDate": "2023-05-01",
+      "summary": "Due to the recent developments in Quantum computing, traditional methods for data encryption such as RSA are at the risk of getting obsolete. This is due to the fact that Quantum computers are capable of performing certain computations in a much faster sense than conventional computers, and by using this potential of computing power, attackers would be able to decrypt these traditional encryption algorithms.\nIn the advent of these technologies, NIST is introducing new standards for Post-Quantum era encryption. One of the approaches proving to be a promising option is lattice-based encryprtion schemes. Lattice-based cryptography has been studied actively over the last decade due to its distinctive advantages in strong security, fast implementations, and versatility applications. There are different implementations for the Lattice-based cryptography algorithms, namely Frodo, Lizard / Ring-Lizard, Kyber and NewHope. These few are the active candidates to post-quantum cryptography due to their applicabilities and efficiences.",
+      "url": "https://deepmehta.co.in/papers/Lattice_Based_Cryptography.pdf"
+    },
+    {
+      "name": "Potential Performance Predictor",
+      "publisher": null,
+      "releaseDate": "2023-04-29",
+      "summary": "Hiring an employee who would be a right fit for the company has always been a challenge for the human resources department at almost every company on this planet. Traditional approaches included manually evaluating an employee after many rounds of interviews and based on feedback from interviewers, a decision was made as to whether a particular employee would be an ideal fit within the company or not. An ideal fit is defined as someone who understands the company’s vision, thrives in the work environment, and is a long-term employee. Attrition has been one major concern for these companies recently, as many employees nowadays tend to switch companies often which in turn leads to a loss of investments the company made in employee skill development.\n\nThis project aims to build a machine-learning model/s that can predict employee performance during the hiring process. The model will consider existing employees in the company and utilizing their performance over the last years, evaluate how a new employee with similar attributes will fit into the work environment at that company. This approach is unique in the sense that each person responds differently to various aspects of a work environment, and if we utilize the fact that an existing employee in that particular role has been performing well in that work environment, then it would be more accurate rather than just comparing skills or education. A major ethical issue that we will be addressing as part of this project is to look into attributes that may lead to bias and make decisions to remove any sort of bias during the hiring process.",
+      "url": "https://deepmehta.co.in/papers/P19_Potential_Performance_Predictor.pdf"
+    },
+    {
+      "name": "Software Engineering Ethics - Algorithm Discriminates",
+      "publisher": null,
+      "releaseDate": "2022-12-10",
+      "summary": "This paper takes into consideration a fictional case study of a software used by a company for screening the resumes of candidates and its disparate impact on minority communities and answers ethical questions of using such a system with the 7-step process for ethical decision making.",
+      "url": "https://deepmehta.co.in/papers/se-ethics.pdf"
+    },
+    {
+      "name": "DevOps Dojo – UX/Accessibility",
+      "publisher": "Microsoft DevBlogs",
+      "releaseDate": "2022-06-20",
+      "summary": "Inclusion of UX/Accessibility in DevOps Model",
+      "url": "https://devblogs.microsoft.com/devops/devops-dojo-ux-accessibility/"
+    },
+    {
+      "name": "Canteen Automation System",
+      "publisher": "International Journal for Research in Applied Science & Engineering Technology",
+      "releaseDate": "2021-05-24",
+      "summary": "Research paper on canteen automation system created as part of final year project.\n\nPaper ID : IJRASET34506",
+      "url": "https://www.ijraset.com/fileserve.php?FID=34506"
+    },
+    {
+      "name": "Hybrid System to find associations using genetic algorithm and fuzzy logic",
+      "publisher": "International Journal for Research in Applied Science & Engineering Technology",
+      "releaseDate": "2019-03-13",
+      "summary": "In this paper, author used the concept of genetic algorithm in association rule mining to get the frequent itemset. And before applying genetic algorithm, data has to be fuzzify to support ARM algorithm. With the help of this implementation rare and popular, both cases will be considered to derive the associations among the parameters which can be used further in any decision making strategy.\n\nPaper ID : IJRASET20181",
+      "url": "https://www.ijraset.com/fileserve.php?FID=20181"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Django",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React Native",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (Programming Language)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NoSQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ASP.NET Core",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Oracle Database",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Power Apps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SignalR",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C#",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Firebase",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Agile Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "React.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Android Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Badminton",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Azure",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Leadership",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Robot Programming",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Embedded C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Powershell",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Operations Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure DevOps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Volleyball",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Project Management",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Github",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ASP.NET",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Raspberry Pi",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ASP.NET MVC",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Android Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Shell Scripting",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Azure Functions",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Android Studio",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Test Automation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ASP.NET Web API",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Android",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "AngularJS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ASP.NET Razor",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cascading Style Sheets (CSS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adobe XD",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "fluency": "Professional Working",
+      "language": "English"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Gujarati"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Hindi"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "Marathi"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Kan Tang",
+      "reference": "Deep is an intelligent, innovative , dedicated, resilient, hardworking, and outcome focused team player.  As a young fellow in MSFT, he has achieved amazing accomplishments in his first 1.5 year!  He worked on the most important innovations in our team including DevOps for Accessibility, Mobile-based DevOps, innersource platform, Make GitHub Real End2End implementation, and AI Cognitive services in DevOps.  \n\nDescribing the process of selecting future Yale students, President Kingman Brewster once wrote, “I am inclined to believe that the person who gives every ounce to do something superbly has an advantage over the person whose capacities may be great but who seems to have no desire to stretch them to their limit.”  This is how I would describe Deep as well as a high potential player. He is our top innovator in our community, nothing can stop him from innovating.  Everyone respects Deep because he always goes extra miles, he always delivers, and he always smiles under any difficulty situation.\n\nDeep will go places in Microsoft, and he is a wonderful role model for our aspires!\n\n"
+    },
+    {
+      "name": "Tom Hill",
+      "reference": "I am a customer of Deep's. Deep is an excellent problem solver. He has the ability to collect the problem statement, find the root cause, and quickly provide the solution results needed. This is a remarkable skill in business and in academia. Deep is a great asset for any growing organization."
+    },
+    {
+      "name": "Harry Chen",
+      "reference": "Deep is a great teammate to work with.  He picks up new technology quickly and uses them effectively, for example, GitHub, bots, and Azure intelligent services (QnA).  He works hard and always willing to help.  "
+    },
+    {
+      "name": "Aakanksha Sharma",
+      "reference": "Deep has joined my team as a fresher. since the day he started he was always super eager to learn. He was one of most innovative person in team and very best of talent. I like deep's technical and design skills as he can explain the complex of problem through his design diagrams in best way. If you want to hire Deep, don't think twice. He will generate lot of value in team. Our best in class - Deep Mehta!"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Potential-Performance-Predictor",
+      "startDate": "2023-02-28",
+      "summary": "This project aims to build a machine-learning model/s that can predict employee performance during the hiring process. The model will consider existing employees in the company and utilizing their performance over the last years, evaluate how a new employee with similar attributes will fit into the work environment at that company. This approach is unique in the sense that each person responds differently to various aspects of a work environment, and if we utilize the fact that an existing employee in that particular role has been performing well in that work environment, then it would be more accurate rather than just comparing skills or education. A major ethical issue that we will be addressing as part of this project is to look into attributes that may lead to bias and make decisions to remove any sort of bias during the hiring process.",
+      "url": "https://github.com/deep-mm/Potential-Performance-Predictor",
+      "endDate": "2023-04-30"
+    },
+    {
+      "name": "AUTOR - Auto Repair and Service Management System",
+      "startDate": "2022-10-31",
+      "summary": "This project included:\n1. Designing a Entity-Relationship diagram based on the requirements\n2. Convert ER diagram into SQL Tables\n3. Setting up triggers to ensure database consistency\n4. Develop Java Springboot APIs to interact with the database (Oracle)\n5. Develop Angular Frontend to consume APIs\n\nThe requirements included, developing a system that allows customers to schedule maintenance and repair services for their cars. Additionally provide interfaces fro store manager, receptionist and mechanics.",
+      "url": "https://deepmehta.co.in/projects/auto-repair-service-management-system/",
+      "endDate": "2022-12-31"
+    },
+    {
+      "name": "Expertiza - Open Source Contribution",
+      "startDate": "2022-10-31",
+      "summary": "This project was done as part of Object Oriented Design & Development coursework. We made contribution to an open source repository, Expertiza (Expertiza is a web application through which students can submit and peer-review learning objects (articles, code, web sites, etc). The Expertiza project is supported by the National Science Foundation.) by fixing some design principle and adding new functionality to the website. Following contributions were made: https://github.com/expertiza/expertiza/pull/2490, https://github.com/expertiza/expertiza/pull/2459",
+      "url": "https://github.com/OODD-OSS/expertiza",
+      "endDate": "2022-12-31"
+    },
+    {
+      "name": "SimpleDB",
+      "startDate": "2022-11-30",
+      "summary": "SimpleDB [http://cs.bc.edu/~sciore/simpledb/] is a multi-user transactional database server written in Java, which interacts with Java client programs via JDBC.\nThe purpose of this project was to implement a Least Recently Modified (LRM) replacement algorithm for the DBMS buffer manager.",
+      "url": "https://github.com/deep-mm/DBMS-Project2",
+      "endDate": "2022-12-31"
+    },
+    {
+      "name": "Airplane-Booking-System",
+      "startDate": "2022-09-30",
+      "summary": "This project is developed using Ruby on Rails and deployed on Heroku. This demonstrates various Object Oriented Design & Development principles",
+      "url": "https://deepmehta.co.in/projects/airplane-bookings-system/",
+      "endDate": "2022-10-31"
+    },
+    {
+      "name": "Good Repository - Open Source",
+      "startDate": "2022-09-30",
+      "summary": "This project showcases what a good open source repository looks like including all the required components.",
+      "url": "https://github.com/CSC510-Group-5/URL-Shortner",
+      "endDate": "2022-10-31"
+    },
+    {
+      "name": "QnA - PlugnPlay",
+      "startDate": "2022-01-31",
+      "summary": "This is a reusable IP that can be used to publish your customized QnA bot for free in less than 10 minutes.",
+      "url": "https://deepmehta.co.in/projects/qna-plugnplay/",
+      "endDate": "2022-01-31"
+    },
+    {
+      "name": "Finance Tracker",
+      "startDate": "2021-12-31",
+      "summary": "Sample Application to show Angular Web App + ASP.NET Core Web API",
+      "url": "https://deepmehta.co.in/projects/finance-tracker/",
+      "endDate": "2021-12-31"
+    },
+    {
+      "name": "URL Shortener - yourURL",
+      "startDate": "2021-12-31",
+      "summary": "This is a simple URL shortener created using Azure Function App + Storage Account",
+      "url": "https://deepmehta.co.in/projects/url-shortner/",
+      "endDate": "2021-12-31"
+    },
+    {
+      "name": "GitHub Probot App - Deployed on Azure Functions",
+      "startDate": "2021-08-31",
+      "summary": "GitHub App that triggers on issue creation and adds comments and assigns issues. This app is hosted on the Azure function.\nThis project is an example app to showcase how to create a GitHub app with Probot and deploy it on Azure functions.",
+      "url": "https://deepmehta.co.in/projects/github-probot-app/",
+      "endDate": "2021-08-31"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
