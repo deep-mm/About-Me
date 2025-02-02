@@ -16,7 +16,7 @@ featuredImage = "/images/blogs/brahmatal/brahmatal_main.png"
 *"Two roads diverged in a wood, and I took the one less travelled by, and that has made all the difference."*
 I decided to go on a trek instead of a vacation relaxing in a hotel room, I took the one less travelled by, which has made all the difference.
 
-In February 2021, I decided to go on a trek along with my college friends. We had completed 2 treks to date, [Kedarkantha](https://indiahikes.com/kedarkantha-trek/) in January 2019 and [Sandakphu](https://indiahikes.com/sandakphu-phalut/) in December 2019. In the midst of the pandemic, when we had already spent the last 12 months at home, we knew we had to get out into nature. We decided to go to **[Brahmatal](https://indiahikes.com/brahmatal-trek/)** Trek with [IndiaHikes]((https://indiahikes.com/)).
+In February 2021, I decided to go on a trek along with my college friends. We had completed 2 treks to date, [Kedarkantha](https://indiahikes.com/kedarkantha-trek/) in January 2019 and [Sandakphu](https://indiahikes.com/sandakphu-phalut/) in December 2019. In the midst of the pandemic, when we had already spent the last 12 months at home, we knew we had to get out into nature. We decided to go to **[Brahmatal](https://indiahikes.com/brahmatal-trek/)** Trek with [IndiaHikes](https://indiahikes.com/).
 
 Thus, it began!
 
