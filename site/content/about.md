@@ -28,6 +28,6 @@ I like to explore new places and go on hikes. I have completed 3 Himalayan high 
 
 ---
 
-*I have a disability:* [Check out this page to learn how to collaborate with individuals who have speech disorders](https://deepmehta.co.in/posts/collaborate-with-me/)
+[Check out this page to learn how to collaborate with individuals who have speech disorders](https://deepmehta.co.in/posts/collaborate-with-me/)
 
 ---
